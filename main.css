@@ -17,5 +17,7 @@ button:hover {
     background: rgb(57, 124, 71);
 }
 footer {
-    font-size: 14px;
+    font-size: 10px;
+    border: 1px solid #000;
+    background: #555555;
 }
