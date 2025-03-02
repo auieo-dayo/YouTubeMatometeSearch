@@ -16,3 +16,6 @@ button {
 button:hover {
     background: rgb(57, 124, 71);
 }
+footer {
+    font-size: 14px;
+}
