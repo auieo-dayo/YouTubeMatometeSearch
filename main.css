@@ -16,8 +16,8 @@ button {
 button:hover {
     background: rgb(57, 124, 71);
 }
-footer {
-    font-size: 10px;
-    border: 1px solid #000;
-    background: #555555;
+.tyuui {
+    border: 1px solid red;
+    color: red;
+    font-size:30px ;
 }
